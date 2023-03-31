@@ -9,4 +9,4 @@ This program is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.en.html)
-for more details
+for more details: contact OlekSytn
